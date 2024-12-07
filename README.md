@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kyousukeeee
-- 👀 I’m interested in Anime and Ragnarok 
-- 🌱 I’m currently learning Java language 
+Hey there. I'm new to this world. Lets learn each other 
 
 <!---
 kyousukeeee/kyousukeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
